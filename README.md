@@ -14,3 +14,4 @@ Os problemas são escolhidos de forma a revisar alguns conceitos e algoritmos im
  onde deve-se substituir a variável {numero_problema} pelo nome da pasta a ser testada. 
  - Ex: https://www.urionlinejudge.com.br/judge/pt/problems/view/1105#
   É a URL do problema 1105, e nela existe a descrição do mesmo.
+ 
